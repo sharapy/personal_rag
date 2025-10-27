@@ -1,0 +1,8 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes
+llama_index
+sentence_transformers
+llama-index-llms-huggingface
